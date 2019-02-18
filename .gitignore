@@ -1,0 +1,7 @@
+.idea
+
+/xc-framework-common/target/
+/xc-framework-model/target/
+/xc-framework-utils/target/
+/xc-service-api/target/
+/xc-service-manage-cms/target/
